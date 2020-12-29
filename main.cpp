@@ -4,16 +4,6 @@
 
 using namespace std;
 
-
-int multiply (int a, int b)
-{
-    return a * b;
-}
-float multiply (float a, float b)
-{
-    return a * b;
-}
-
 int main()
 {
         int mat1a, mat1b, mat2a, mat2b;
